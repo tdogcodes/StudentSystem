@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\roster.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\roster.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\degree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\degree.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\StudentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentSystem\\StudentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "roster.cpp",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.cpp",
+              "RelativeDocumentMoniker": "StudentSystem\\roster.cpp",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.cpp",
+              "RelativeToolTip": "StudentSystem\\roster.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T01:52:08.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "roster.h",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.h",
+              "RelativeDocumentMoniker": "StudentSystem\\roster.h",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\roster.h",
+              "RelativeToolTip": "StudentSystem\\roster.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T01:52:08.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.cpp",
+              "RelativeDocumentMoniker": "StudentSystem\\student.cpp",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.cpp",
+              "RelativeToolTip": "StudentSystem\\student.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T01:52:06.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.h",
+              "RelativeDocumentMoniker": "StudentSystem\\student.h",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\student.h",
+              "RelativeToolTip": "StudentSystem\\student.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T01:52:03.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "degree.h",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\degree.h",
+              "RelativeDocumentMoniker": "StudentSystem\\degree.h",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\degree.h",
+              "RelativeToolTip": "StudentSystem\\degree.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-08T01:51:00.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\StudentSystem.cpp",
+              "RelativeDocumentMoniker": "StudentSystem\\StudentSystem.cpp",
+              "ToolTip": "C:\\Users\\trxcy\\source\\repos\\StudentSystem\\StudentSystem\\StudentSystem.cpp",
+              "RelativeToolTip": "StudentSystem\\StudentSystem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T01:46:40.173Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
