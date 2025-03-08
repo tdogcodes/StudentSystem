@@ -19,13 +19,13 @@ class Roster {
 		Roster();
 		~Roster();
 
-		//Part E.3 defining roster functions
+		//Part E.3 defining roster methods
 
 		//used with add() to parse data before adding the student to the roster
 		void parseAndAddStudents(const string studentDataTable[], int size);
-	
+
 		void add(string studentId, string firstName, string lastName, string email,
-		int age, int daysInCourse1, int daysInCourse2, int daysInCourse3, string degreeProgram);
+		int age, int daysInCourse1, int daysInCourse2, int daysInCourse3, DegreeProgram degreeProgram);
 
 		void remove(string studentId);
 
@@ -35,8 +35,11 @@ class Roster {
 
 		void printInvalidEmails() const;
 
-		void printByDegreeProgram(string degreeProgram) const;
+		void printByDegreeProgram(DegreeProgram degreeProgram) const;
 
 };
+
+DegreeProgram convertToDegreeProgram(const std::string& degreeProgramStr);
+std::string degreeProgramToString(DegreeProgram degreeProgram);
 
 #endif

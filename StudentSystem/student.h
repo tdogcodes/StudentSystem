@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include "degree.h"
 
 using namespace std;
 
@@ -15,12 +16,12 @@ private:
     string email;
     int age;
     int daysInClasses[3];
-    string degreeProgram;
+    DegreeProgram degreeProgram;
 
 public:
     //constructor definition
     Student(string studentId, string firstName, string lastName,
-        string email, int age, int daysInClasses[], string degreeProgram);
+        string email, int age, int daysInClasses[], DegreeProgram degreeProgram);
 
     //accessor definitions
     string getStudentId() const { return studentId; }
@@ -29,7 +30,7 @@ public:
     string getEmail() const { return email; }
     int getAge() const { return age; }
     const int* getDaysInClasses() const { return daysInClasses; }
-    string getDegreeProgram() const { return degreeProgram; }
+    DegreeProgram getDegreeProgram() const { return degreeProgram; }
 
     //mutator definitions
     void setStudentId(string studentId) {
@@ -52,7 +53,7 @@ public:
             this->daysInClasses[i] = daysInClasses[i];
         }
     }
-    void setDegreeProgram(string degreeProgram) {
+    void setDegreeProgram(DegreeProgram degreeProgram) {
         this->degreeProgram = degreeProgram;
     }
     // print definition
