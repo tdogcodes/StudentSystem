@@ -22,6 +22,6 @@ void Student::print() const {
     cout << "First Name: " << firstName << "\t";
     cout << "Last Name: " << lastName << "\t";
     cout << "Age: " << age << "\t";
-    cout << "daysInCourse: {" << daysInClasses[0] << ", " << daysInClasses[1] << ", " << daysInClasses[2] << "}" << "\t";
-    cout << "Degree Program: " << degreeProgramToString(degreeProgram) << "\t";
+    cout << "daysInCourse: {" << daysInClasses[0] << ", " << daysInClasses[1] << ", " << daysInClasses[2] << "}";
+    cout << " Degree Program: " << degreeProgramToString(degreeProgram) << endl;
 }               
