@@ -19,6 +19,11 @@ class Roster {
 		Roster();
 		~Roster();
 
+		//to access classRosterArray
+		Student**  getClassRosterArray() {
+			return classRosterArray;
+		}
+
 		//Part E.3 defining roster methods
 
 		//used with add() to parse data before adding the student to the roster
@@ -39,6 +44,7 @@ class Roster {
 
 };
 
+//helper functions to convert the DegreeProgram enum into a string and back
 DegreeProgram convertToDegreeProgram(const std::string& degreeProgramStr);
 std::string degreeProgramToString(DegreeProgram degreeProgram);
 

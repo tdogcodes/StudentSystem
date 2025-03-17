@@ -105,12 +105,12 @@ void Roster::remove(string studentId) {
     }
 }
 
-// Print all students in the roster
+/* Prints all students in the roster, loops over numStudents which is
+ the number of students in classRosterArray, initalized in the constructor Ln:4 */
 void Roster::printAll() const {
     for (int i = 0; i < numStudents; i++) {
-        if (classRosterArray[i] != nullptr) {
+        if (classRosterArray[i] != nullptr) { 
             classRosterArray[i]->print();
-            cout << endl;
         }
     }
 }

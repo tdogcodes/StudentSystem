@@ -16,14 +16,12 @@ Student::Student(string studentId, string firstName, string lastName,
     }
     this->degreeProgram = degreeProgram;
 }
-//print implementation
+//print implementation, formatted exactly as specified in E3c
 void Student::print() const {
-    cout << "Student ID: " << studentId << endl;
-    cout << "First Name: " << firstName << endl;
-    cout << "Last Name: " << lastName << endl;
-    cout << "Email: " << email << endl;
-    cout << "Age: " << age << endl;
-    cout << "Days in Classes: {" << daysInClasses[0] << ", "
-        << daysInClasses[1] << ", " << daysInClasses[2] << "}" << endl;
-    cout << "Degree Program: " << degreeProgramToString(degreeProgram) << endl;
-}
+    cout << studentId << "\t";
+    cout << "First Name: " << firstName << "\t";
+    cout << "Last Name: " << lastName << "\t";
+    cout << "Age: " << age << "\t";
+    cout << "daysInCourse: {" << daysInClasses[0] << ", " << daysInClasses[1] << ", " << daysInClasses[2] << "}" << "\t";
+    cout << "Degree Program: " << degreeProgramToString(degreeProgram) << "\t";
+}               
